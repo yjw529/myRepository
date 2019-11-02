@@ -14,7 +14,7 @@
 			<td><input type="text" name="name"></td>
 		</tr>
 		<tr>
-			<td>扫码:</td>
+			<td>ll密码:</td>
 			<td><input type="text" name="pwd"></td>
 		</tr>
 		<tr>
