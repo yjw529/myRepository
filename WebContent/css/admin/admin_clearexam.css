@@ -1,0 +1,15 @@
+#mainbody{
+	float: left;
+	width: 1200px;
+	height: 100%;
+}
+
+#showexam{
+	border-radius:15px ;
+	margin-top: 20px;
+	text-align: center;
+	background: bisque;	
+	width: 100%;
+	height: 600px;
+	border: 1px solid black;
+}

@@ -1,0 +1,61 @@
+#mainbody{
+	float: left;
+	width: 1200px;
+	height: 670px;
+}
+#bodydiv{
+	float: left;
+	height: 600px;
+	width: 400px;
+	margin-left: 400px;
+	margin-top: 30px;
+	text-align: center;
+	border:1px solid #F00;
+	background: antiquewhite;
+	border-radius: 20px;
+}
+#modifytitle{
+	margin-top: 40px;
+	margin-left: 120px;
+	width: 160px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+}
+#modifydiv1{
+	width: 100%;
+	height: 50px;
+	margin-top: 40px;
+}
+.modifylabel{
+	text-align: right;
+	line-height: 50px;
+	height:100%;
+	width: 130px;
+	float: left;
+}
+.modifyinput{
+	margin-left: 20px;
+	text-align: left;
+	line-height: 50px;
+	height:100%;
+	width: 250px;
+	float: left;
+}
+.modifydiv2{
+	width: 100%;
+	height: 50px;
+	margin-top: 40px;
+}
+#modifybtnsubmit{
+	width: 60px;
+	height: auto;
+	margin-left: 120px;
+	float: left;
+}
+#modifybtnreset{
+	width: 60px;
+	margin-left: 40px;
+	height: auto;
+	float: left;
+}

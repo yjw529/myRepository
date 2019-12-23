@@ -1,0 +1,196 @@
+#bodybox{
+	width:1000px ;
+	height: 600px;
+	
+	margin: 0 auto;
+	margin-top: 50px;
+}
+#headpage{
+	width: 600px;
+	height: 100px;
+	margin-top: 50px;
+	float: left;
+	margin-left: 200px;
+}
+/*#headpicture{
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-left: 50px;
+}*/
+#headcharacter{
+	width: 300px;
+	height: 100px;
+	float: left;
+	margin-left: 150px;
+	
+}
+#loginbody{
+	width: 500px;
+	height: 400px;
+	float: left;
+	margin-left: 250px;
+	margin-top: 20px;
+	
+	float: left;
+}
+#loginbody1{
+	width: 400px;
+	height: 330px;
+	margin-left: 50px;	
+	float: left;
+	
+	margin-top: 20px;
+}
+#loginbody1 input[type="text"]:focus,input[type="password"]:focus{
+    border-color:rgba(255,128,0,.75);
+    -webkit-box-shadow:0 0 18px rgba(255,153,18,3);
+}
+
+#logintab{
+	width: 360px;
+	height: 30px;	
+	
+}
+#loginbody ul{
+	float:left;
+	margin-top: 20px;
+	list-style: none;
+	width: 358px;
+	height: 30px;	
+	line-height: 30px;	
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+a{
+	display: block;
+    text-decoration: none;
+    color: #000;
+    text-align: center;           
+    border: solid 1px #a0a0a0;
+    border-bottom: none;
+    margin: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: bisque;
+}
+#loginbody ul #studenttab{
+	display: inline-block;
+	width: 100px;
+	height: 30px;
+	margin-left: 50px;
+	float:left;
+	background: floralwhite;
+}
+#loginbody ul #teachertab{	
+	width: 100px;
+	height: 30px;
+	float:left;
+}
+#loginbody ul #admintab{	
+	width: 100px;
+	height: 30px;
+	float:left;
+}
+#studentlogin{
+	width: 400px;
+	height: 320px;
+	float: left;
+	border: 1px solid black;
+	background: floralwhite;
+	display: block;
+	border-radius: 20px;
+}
+#teacherlogin{
+	width: 400px;
+	height: 320px;
+	float: left;
+	border: 1px solid black;
+	background: floralwhite;
+	display: none;
+	border-radius: 20px;
+}
+#adminlogin{
+	width: 400px;
+	height: 320px;
+	float: left;
+	border: 1px solid black;
+	background: floralwhite;
+	display: none;
+	border-radius: 20px;
+}
+.headpicture{
+	width: 400px;
+	height: 80px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.username{
+	width: 120px;
+	height: 40px;
+	float: left;
+	text-align: right;
+	line-height: 40px;
+}
+.pwd{
+	width: 120px;
+	height: 40px;
+	float: left;
+	margin-top: 30px;
+	text-align: right;
+	line-height: 40px;
+}
+.usernameInput{
+	width: 230px;
+	height: 40px;
+	text-align: left;
+	float: left;
+	margin-left: 20px;
+	line-height: 40px;
+}
+.pwdInput{
+	width: 230px;
+	height: 40px;
+	float: left;
+	margin-left: 20px;
+	text-align: left;
+	margin-top: 30px;
+	line-height: 40px;
+}
+.pwdInput1{
+	width: 180px;
+	height: 40px;
+	float: left;
+}
+
+.lookpwd{
+	width: 40px;
+	height: 40px;
+	background: white;
+	float: left;
+}
+.loginbtn{
+	width: 15%;
+	height: 50px;	
+	float: left;
+	margin-left: 30%;
+	margin-top: 50px;
+}
+.sub:hover{
+        background-color: #FFE4C4;
+        background-image:-webkit-linear-gradient(bottom,#5f73e9 0%,#859bef 100%);
+        background-image:-moz-linear-gradient(bottom,#5f73e9 0%,#859bef 100%);
+        background-image:-ms-linear-gradient(bottom,#5f73e9 0%,#859bef 100%);
+        background-image:-o-linear-gradient(bottom,#5f73e9 0%,#859bef 100%);
+        -webkit-box-shadow: inset 0px 1px 0px #aab9f4;      /*当鼠标放在按钮上个时边框的阴影*/
+        box-shadow: inset 0px 1px 0px #aab9f4;
+    }
+
+.resetbtn{
+	width: 15%;
+	height: 50px;	
+	float: left;
+	margin-left: 10%;
+	margin-top: 50px;
+}

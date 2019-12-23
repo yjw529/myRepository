@@ -1,0 +1,21 @@
+#mainbody{
+	float: left;
+	width: 1200px;
+	height: 100%;
+}
+#addteacher{
+	text-align: center;
+	background: bisque;
+	margin: 0 auto;
+	width: 800px;
+	height: 320px;
+	border-radius:15px ;
+	border: 1px solid black;
+}
+#addteacherdiv{
+	width: 200px;
+	height: 200px;
+	margin-left: 300px;
+	text-align: center;
+
+}

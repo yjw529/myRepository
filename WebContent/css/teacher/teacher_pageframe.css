@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#head{
+	width: 100%;
+	height: 50px;	
+	color: white;
+	line-height: 50px;
+	background: black;	
+}
+#div_timer{
+	height: 100%;
+	width: 40%;
+	float: left;
+	text-align: center;
+}
+#title{
+	height: 100%;
+	width: 60%;
+	float: left;
+	text-align: right;
+}
+#mybody{
+	min-width: 1220px;
+	height: 690px;
+	width: 1536px;
+}
